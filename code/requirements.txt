@@ -1,0 +1,9 @@
+librosa
+numpy
+tensorflow 
+torch
+torchvision
+pandas
+matplotlib
+sklearn
+keras
